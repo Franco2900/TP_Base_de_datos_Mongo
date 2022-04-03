@@ -1,0 +1,1 @@
+[{"_id":{"$oid":"60d233ec4b0a0656610ddcdb"},"Cantidad ventas":5,"Sucursal":1},{"_id":{"$oid":"60d233ec4b0a0656610ddcdc"},"Cantidad ventas":6,"Sucursal":2},{"_id":{"$oid":"60d233ec4b0a0656610ddcdd"},"Cantidad ventas":6,"Sucursal":3},{"_id":{"$oid":"60d233ec4b0a0656610ddcde"},"Cantidad ventas global":17}]
